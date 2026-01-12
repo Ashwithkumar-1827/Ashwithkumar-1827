@@ -5,23 +5,23 @@
   <br />
   <br />
   
-  <!-- Logo -->
-  <img src="/logo.png" alt="Ashwith Logo" width="180" height="180" style="border-radius: 50%; border: 3px solid #58a6ff;" />
+  <br />
 
   <br />
   <br />
+
+  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; display: flex; align-items: center; justify-content: center; gap: 15px;">
+    Ashwith Kumar
+    <img src="/logo.png" alt="Ashwith Logo" width="45" height="45" style="border-radius: 50%; border: 2px solid #58a6ff;" />
+  </h1>
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Scientist;AI+Researcher" alt="Typing SVG" />
   </a>
 
-  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-    Ashwith Kumar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="High Voltage" width="50" height="50" />
-  </h1>
-
   <!-- Intro Text -->
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.1rem; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: left;">
+  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.1rem; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: center;">
     <ul>
       <li>� I specialize in building <b>production-grade ML models</b> and scalable data pipelines.</li>
       <li>🧠 Passionate about <b>Large Language Models (LLMs)</b> and Generative AI.</li>
@@ -34,7 +34,9 @@
   <!-- Tech Stack -->
   <h3 style="color: #ffffff;">Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,databricks,langchain,huggingface,docker,aws,azure,mysql,postgres,mongodb,git&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,docker,aws,azure,mysql,postgres,mongodb,git&theme=dark" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=databricks,langchain,huggingface,kubernetes,kafka,gcp&theme=dark" />
   </a>
 
   <br />
