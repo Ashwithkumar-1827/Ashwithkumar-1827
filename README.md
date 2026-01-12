@@ -8,7 +8,7 @@
 
   <h1 style="
     margin: 0;
-    font-size: 2.6rem;
+    font-size: 5rem;
     font-weight: 700;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
   ">
