@@ -31,7 +31,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,docker,aws,azure,mysql,postgres,mongodb,git&theme=dark" />
     <br />
-    <img src="https://skillicons.dev/icons?i=databricks,langchain,huggingface,kubernetes,kafka,gcp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=databricks,langchain,huggingface&theme=dark" />
   </a>
 
   <br />
