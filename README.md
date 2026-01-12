@@ -1,63 +1,107 @@
-<h2 align="left">Hi 👋! My name is Ashwith and I'm a Data Engineering Enthusiast</h2>
+<div align="center">
+  
+  <!-- Header with Apple-like minimalism -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hello&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
 
-###
-<div>
-<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNpOXR5aHg1d3lhOTVmbGRhZzJtYTNzZzRjcmJjbTVvcTB3MXZteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJ9ehuvqmJbrgZLAwB/giphy.gif"  />
+  <br/>
+
+  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    I'm a Machine Learning Engineer
+  </h1>
+  
+  <p style="font-size: 1.2rem; color: #8b949e;">
+    <i>Transforming data into intelligent experiences.</i>
+  </p>
+
+  <br />
+
+  <!-- Tech Stack - Monochrome/Premium Look -->
+  <!-- Using 'for-the-badge' with custom hex colors for a cohesive palette -->
+  <p>
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+    <a href="https://tensorflow.org/">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    </a>
+    <a href="https://pytorch.org/">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    </a>
+    <a href="https://scikit-learn.org/">
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    </a>
+    <a href="https://pandas.pydata.org/">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    </a>
+    <br/>
+    <a href="https://www.docker.com/">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+    <a href="https://kubernetes.io/">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    </a>
+    <a href="https://fastapi.tiangolo.com/">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </a>
+  </p>
+
+  <br />
+  
+  <!-- Stats Area - Clean and Card-based -->
+  <!-- Note: Replace 'mashw' with your actual github username if different -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mashw&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e" height="180" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="180" alt="Languages" />
+  </div>
+
+</div>
+
+<br />
+<br />
 
 <div align="left">
-  🚀 Passionate about building scalable data solutions <br />
-  ☁️ Cloud Explorer: Azure & AWS Certified <br />
-  📊 Love transforming raw data into actionable insights <br />
-  🌱 Always learning and experimenting with new technologies
+
+  <!-- "About" Section inspired by clean documentation typography -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> 
+    The Work
+  </h3>
+  
+  <blockquote>
+    "Design is not just what it looks like and feels like. Design is how it works."
+  </blockquote>
+  
+  <p style="color: #8b949e; line-height: 1.6;">
+    I specialize in building high-performance <b>Machine Learning</b> models and deploying them into scalable production environments. 
+    My approach combines rigorous mathematical foundations with modern software engineering practices to create systems that are reliable, maintainable, and impactful.
+  </p>
+  
+  <br />
+
+  <!-- A clean list for "Current Focus" -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Target.png" alt="Target" width="30" height="30" /> 
+    Current Focus
+  </h3>
+  <ul>
+    <li>🔭 Advancing research in <b>Deep Reinforcement Learning</b>.</li>
+    <li>🌱 Contributing to open-source <b>MLOps</b> tools.</li>
+    <li>⚡ Optimization of <b>Large Language Models</b> for edge devices.</li>
+  </ul>
+
 </div>
-</div>
 
-### 🧰 Tech Stack & Tools
-
-<div align="left">
-    
-[![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)  
-[![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org) 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org) 
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
-[![Azure SQL](https://img.shields.io/badge/Azure%20SQL-007FFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)  
-[![Azure Data Explorer](https://img.shields.io/badge/Azure%20Data%20Explorer-00BFFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/data-explorer/)
-[![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)  
-[![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=aws&logoColor=FFD700)](https://aws.amazon.com/glue/)
-
-</div>
-
-
----
-
-### 📈 GitHub Stats
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mm8886&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="150" alt="Ashwith's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshilparmar&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
-### 🔗 Let's Connect!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ashwith-kumar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" />
+  <!-- Footer Socials -->
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mashwithkumar1809@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  <a href="mailto:example@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=flat&logo=medium&logoColor=white" />
   </a>
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
-🌟 *Always open to collaboration and learning! Let’s build the future of data together.*  
