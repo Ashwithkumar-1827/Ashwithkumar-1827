@@ -3,7 +3,7 @@
   <img src="/banner.png" alt="Banner" width="100%" />
 </div>
 
-<!-- Name + Logo Row -->
+<!-- Name & Logo (Single Line) -->
 <div style="
   display: flex;
   justify-content: space-between;
@@ -12,7 +12,7 @@
   padding: 0 40px;
 ">
 
-  <!-- Name (Left) -->
+  <!-- Name -->
   <h1 style="
     margin: 0;
     font-size: 5rem;
@@ -22,7 +22,7 @@
     Ashwith Kumar
   </h1>
 
-  <!-- Logo (Right Corner) -->
+  <!-- Logo -->
   <img
     src="/logo.png"
     alt="Logo"
