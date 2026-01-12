@@ -4,9 +4,9 @@
 </div>
 
 <div align="left" style="padding-left: 30px; margin-top: 30px; margin-bottom: 20px;">
-  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10rem; display: flex; align-items: center; gap: 20px; margin: 0;">
+  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15rem; display: flex; align-items: center; gap: 20px; margin: 0;">
     Ashwith Kumar
-    <img src="/logo.png" alt="Ashwith Logo" width="35" height="35" style="border-radius: 50%; border: 3px solid #58a6ff;" />
+    <img src="/logo.png" alt="Ashwith Logo" width="30" height="30" style="border-radius: 50%; border: 3px solid #58a6ff;" />
   </h1>
 </div>
 
