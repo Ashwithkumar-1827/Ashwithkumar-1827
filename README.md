@@ -1,13 +1,13 @@
 <div align="center">
   <!-- Banner Image -->
-  <img src="/banner.png" alt="Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
 
   <br />
   <br />
 
-  <!-- Animated Typing Text -->
+  <!-- Animated Typing Text - Increased width to prevent truncation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Data+Engineer;Building+Scalable+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Engineer;Building+Scalable+AI+Systems" alt="Typing SVG" />
   </a>
 
   <br />
@@ -22,6 +22,7 @@
   <br />
 
   <!-- Tech Stack - Skill Icons -->
+  <!-- Reordered and verified icons -->
   <h3 style="color: #ffffff;">Tech Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,docker,kubernetes,aws,gcp,azure,mysql,postgres,mongodb,kafka,git&theme=dark&perline=8" />
@@ -31,7 +32,8 @@
   <br />
   <br />
 
-  <!-- GitHub Stats - Dark/Premium Theme -->
+  <!-- GitHub Stats -->
+  <!-- IMPORTANT: Replace 'Anuraghazra' with YOUR GitHub username in the URLs below -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashw&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" />
