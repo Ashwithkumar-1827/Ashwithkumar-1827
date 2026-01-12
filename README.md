@@ -28,7 +28,10 @@
 <div align="center">
   <!-- Animated Typing Text -->
   <a>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Building+ML+Models;Designing+Data+Pipelines;Deploying+AI+Agents;Training+Intelligent+Systems;Scaling+Data+Infrastructure" alt="Typing SVG" />
+  <img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Building+ML+Models;Designing+Data+Pipelines;Deploying+AI+Agents;Training+Intelligent+Systems;Scaling+Data+Infrastructure"
+  alt="Typing SVG"
+/>
   </a>
 
   <!-- Intro Text -->
