@@ -1,15 +1,16 @@
 <div align="center">
   <!-- Banner Image -->
   <img src="/banner.png" alt="Banner" width="100%" />
+</div>
 
-  <br />
-  <br />
-
-  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 3.5rem; display: flex; align-items: center; justify-content: flex-start; gap: 15px; padding-left: 20px;">
+<div align="left" style="padding-left: 30px; margin-top: 30px; margin-bottom: 20px;">
+  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 5rem; display: flex; align-items: center; gap: 20px; margin: 0;">
     Ashwith Kumar
-    <img src="/logo.png" alt="Ashwith Logo" width="35" height="35" style="border-radius: 50%; border: 10px solid #58a6ff;" />
+    <img src="/logo.png" alt="Ashwith Logo" width="50" height="50" style="border-radius: 50%; border: 3px solid #58a6ff;" />
   </h1>
+</div>
 
+<div align="center">
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Scientist;AI+Researcher" alt="Typing SVG" />
