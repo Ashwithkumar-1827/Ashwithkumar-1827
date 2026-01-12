@@ -1,107 +1,62 @@
 <div align="center">
-  
-  <!-- Header with Apple-like minimalism -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hello&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
 
-  <br/>
-
-  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-    I'm a Machine Learning Engineer
-  </h1>
-  
-  <p style="font-size: 1.2rem; color: #8b949e;">
-    <i>Transforming data into intelligent experiences.</i>
-  </p>
+  <!-- HEADER: Animated Gradient Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF10F0&height=220&section=header&text=Machine%20Learning%20Engineer&fontSize=60&fontAlign=50&fontAlignY=35&desc=AI%20%E2%80%A2%20Research%20%E2%80%A2%20Innovation&descAlignY=65&descSize=25&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
   <br />
+  <br />
 
-  <!-- Tech Stack - Monochrome/Premium Look -->
-  <!-- Using 'for-the-badge' with custom hex colors for a cohesive palette -->
-  <p>
-    <a href="https://www.python.org/">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
-    <a href="https://tensorflow.org/">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    </a>
-    <a href="https://pytorch.org/">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    </a>
-    <a href="https://scikit-learn.org/">
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    </a>
-    <a href="https://pandas.pydata.org/">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    </a>
-    <br/>
-    <a href="https://www.docker.com/">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </a>
-    <a href="https://kubernetes.io/">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    </a>
-    <a href="https://fastapi.tiangolo.com/">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    </a>
-  </p>
+  <!-- DYNAMIC TYPING TEXT -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F5F5F5&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Deep+Reinforcement+Learning;Optimizing+LLMs+for+Production;Visualizing+High-Dim+Data" alt="Typing SVG" />
+  </a>
 
   <br />
+  <br />
+
+  <!-- SKILL ICONS (Animated by default on hover) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,wandb,opencv,pandas,hummingbird&perline=9&theme=dark" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,git,linux,bash,md,vscode&perline=9&theme=dark" />
+  </a>
+
+  <br />
+  <br />
   
-  <!-- Stats Area - Clean and Card-based -->
-  <!-- Note: Replace 'mashw' with your actual github username if different -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mashw&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e" height="180" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="180" alt="Languages" />
+  <!-- GITHUB STATS: Glass/Clean Look -->
+  <!-- Using 'transparent' bg or a nice dark theme like 'tokyonight' for neon feels -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=mashw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="languages" />
+    </a>
   </div>
 
-</div>
-
-<br />
-<br />
-
-<div align="left">
-
-  <!-- "About" Section inspired by clean documentation typography -->
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> 
-    The Work
-  </h3>
+  <br />
   
-  <blockquote>
-    "Design is not just what it looks like and feels like. Design is how it works."
-  </blockquote>
-  
-  <p style="color: #8b949e; line-height: 1.6;">
-    I specialize in building high-performance <b>Machine Learning</b> models and deploying them into scalable production environments. 
-    My approach combines rigorous mathematical foundations with modern software engineering practices to create systems that are reliable, maintainable, and impactful.
-  </p>
-  
+  <!-- OPTIONAL: Most Used Commit Times (Looks like a heatmap) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mashw&theme=tokyonight" /> -->
+
   <br />
 
-  <!-- A clean list for "Current Focus" -->
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Target.png" alt="Target" width="30" height="30" /> 
-    Current Focus
-  </h3>
-  <ul>
-    <li>🔭 Advancing research in <b>Deep Reinforcement Learning</b>.</li>
-    <li>🌱 Contributing to open-source <b>MLOps</b> tools.</li>
-    <li>⚡ Optimization of <b>Large Language Models</b> for edge devices.</li>
-  </ul>
-
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Footer Socials -->
+  <!-- SOCIAL CONNECT -->
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="mailto:example@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://medium.com/">
-    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=flat&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" />
   </a>
+
+  <br />
+  <br />
+
+  <!-- FOOTER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF10F0,100:8A2BE2&height=100&section=footer" width="100%"/>
+
 </div>
