@@ -1,62 +1,56 @@
 <div align="center">
-
-  <!-- HEADER: Animated Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF10F0&height=220&section=header&text=Machine%20Learning%20Engineer&fontSize=60&fontAlign=50&fontAlignY=35&desc=AI%20%E2%80%A2%20Research%20%E2%80%A2%20Innovation&descAlignY=65&descSize=25&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <!-- Banner Image -->
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
 
   <br />
   <br />
 
-  <!-- DYNAMIC TYPING TEXT -->
+  <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F5F5F5&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Deep+Reinforcement+Learning;Optimizing+LLMs+for+Production;Visualizing+High-Dim+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Data+Engineer;Building+Scalable+AI+Systems" alt="Typing SVG" />
   </a>
 
   <br />
+
+  <!-- Intro Text -->
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.1rem; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+    Based in the cloud, grounded in data. I architect robust data pipelines and deploy production-grade machine learning models. 
+    Passionate about bridging the gap between research and scalable software.
+  </p>
+
+  <br />
   <br />
 
-  <!-- SKILL ICONS (Animated by default on hover) -->
+  <!-- Tech Stack - Skill Icons -->
+  <h3 style="color: #ffffff;">Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,wandb,opencv,pandas,hummingbird&perline=9&theme=dark" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,git,linux,bash,md,vscode&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,docker,kubernetes,aws,gcp,azure,mysql,postgres,mongodb,kafka,git&theme=dark&perline=8" />
   </a>
 
   <br />
   <br />
-  
-  <!-- GITHUB STATS: Glass/Clean Look -->
-  <!-- Using 'transparent' bg or a nice dark theme like 'tokyonight' for neon feels -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <br />
+
+  <!-- GitHub Stats - Dark/Premium Theme -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=mashw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashw&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="languages" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashw&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" />
     </a>
   </div>
 
   <br />
-  
-  <!-- OPTIONAL: Most Used Commit Times (Looks like a heatmap) -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mashw&theme=tokyonight" /> -->
-
   <br />
 
-  <!-- SOCIAL CONNECT -->
+  <!-- Socials/Connect -->
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" />
-  </a>
-
-  <br />
-  <br />
-
-  <!-- FOOTER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF10F0,100:8A2BE2&height=100&section=footer" width="100%"/>
 
 </div>
