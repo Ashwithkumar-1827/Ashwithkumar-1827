@@ -4,11 +4,6 @@
 
   <br />
   <br />
-  
-  <br />
-
-  <br />
-  <br />
 
   <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; display: flex; align-items: center; justify-content: center; gap: 15px;">
     Ashwith Kumar
