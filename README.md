@@ -3,9 +3,16 @@
   <img src="/banner.png" alt="Banner" width="100%" />
 </div>
 
-<!-- Name & Info Section -->
-<div style="margin-top: -70px; padding-left: 32px;">
+<!-- Name + Logo Row -->
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -90px;
+  padding: 0 40px;
+">
 
+  <!-- Name (Left) -->
   <h1 style="
     margin: 0;
     font-size: 5rem;
@@ -13,14 +20,19 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
   ">
     Ashwith Kumar
-    <img
-      src="/logo.png"
-      alt="Logo"
-      width="24"
-      height="24"
-      style="vertical-align: middle; margin-left: 6px;"
-    />
   </h1>
+
+  <!-- Logo (Right Corner) -->
+  <img
+    src="/logo.png"
+    alt="Logo"
+    width="36"
+    height="36"
+    style="
+      border-radius: 50%;
+      border: 3px solid #58a6ff;
+    "
+  />
 
 </div>
 
