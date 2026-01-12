@@ -5,10 +5,10 @@
   <br />
   <br />
 
-  <h2 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; display: flex; align-items: left; justify-content: center; gap: 15px;">
+  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 3.5rem; display: flex; align-items: center; justify-content: flex-start; gap: 15px; padding-left: 20px;">
     Ashwith Kumar
-    <img src="/logo.png" alt="Ashwith Logo" width="25" height="25" style="border-radius: 50%; border: 10px solid #58a6ff;" />
-  </h2>
+    <img src="/logo.png" alt="Ashwith Logo" width="35" height="35" style="border-radius: 50%; border: 10px solid #58a6ff;" />
+  </h1>
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
@@ -88,8 +88,6 @@
 
   <br />
   <br />
-
-
 
   <br />
   <br />
