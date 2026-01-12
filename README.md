@@ -27,12 +27,10 @@
 
 <div align="center">
   <!-- Animated Typing Text -->
-  <a>
   <img
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Building+ML+Models;Designing+Data+Pipelines;Deploying+AI+Agents;Training+Intelligent+Systems;Scaling+Data+Infrastructure"
   alt="Typing SVG"
 />
-  </a>
 
   <!-- Intro Text -->
   <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.1rem; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: center;">
