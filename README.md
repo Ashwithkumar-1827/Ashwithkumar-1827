@@ -3,41 +3,20 @@
   <img src="/banner.png" alt="Banner" width="100%" />
 </div>
 
-<!-- Name & Logo (Single Line) -->
-<div style="
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: -90px;
-  padding: 0 40px;
-">
+<!-- Name & Info Section -->
 
-  <!-- Name -->
-  <h1 style="
-    margin: 0;
-    font-size: 5rem;
-    font-weight: 700;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-  ">
-    Ashwith Kumar
-  </h1>
+  # Namastē <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px" > </br> **`SELECT 'Ashwith Kumar' AS ml_engineer;`**
 
-  <!-- Logo -->
-  <img
-    src="/logo.png"
-    alt="Logo"
-    width="36"
-    height="36"
-    style="
-      border-radius: 50%;
-      border: 3px solid #58a6ff;
-    "
-  />
 
+  <!-- Intro Text -->
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.1rem; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: center;">
+  I enjoy building intelligent systems that work beyond demos and perform reliably in real-world environments. My work involves training and optimizing machine learning models, creating AI agents, and designing robust pipelines that move and transform data at scale. Recently, I’ve been exploring LLM-based systems, MLOps, and automation with a focus on making AI practical, scalable, and easy to maintain.
 </div>
 
 
-<div align="center">
+
+  <br />
+
   <!-- Animated Typing Text -->
   <div align="center">
   <img
@@ -46,30 +25,17 @@
   />
 </div>
 
-
-  <!-- Intro Text -->
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.1rem; color: #8b949e; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: center;">
-    <ul>
-      <li>� I specialize in building <b>production-grade ML models</b> and scalable data pipelines.</li>
-      <li>🧠 Passionate about <b>Large Language Models (LLMs)</b> and Generative AI.</li>
-      <li>� Currently exploring <b>MLOps</b> best practices and Edge AI optimization.</li>
-    </ul>
-  </div>
-
-  <br />
-
+  <div align="center">
   <!-- Tech Stack -->
   <h3 style="color: #ffffff;">Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,docker,aws,azure,mysql,postgres,mongodb,git&theme=dark" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=databricks,langchain,huggingface&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,aws,azure,mysql,postgres,mongodb,postman,github,git&theme=dark" />
   </a>
 
   <br />
   <br />
 
-  <!-- Projects Section -->
+  <!-- Projects Section 
   <h3 style="color: #ffffff;">Featured Projects</h3>
   <table border="0">
     <tr>
@@ -118,13 +84,10 @@
     </tr>
   </table>
 
-  <br />
-  <br />
-
-  <br />
-  <br />
+  <br /> -->
 
   <!-- Socials/Connect -->
+  <h3 style="color: #ffffff;">Let's Connect</h3>
   <a href="https://www.linkedin.com/in/madishetti-ashwith-kumar">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
