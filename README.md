@@ -1,19 +1,54 @@
+<!-- Banner -->
 <div align="center">
-  <!-- Banner Image -->
   <img src="/banner.png" alt="Banner" width="100%" />
 </div>
 
-<div align="left" style="padding-left: 30px; margin-top: 30px; margin-bottom: 20px;">
-  <h1 style="color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15rem; display: flex; align-items: center; gap: 20px; margin: 0;">
-    Ashwith Kumar
-    <img src="/logo.png" alt="Ashwith Logo" width="30" height="30" style="border-radius: 50%; border: 3px solid #58a6ff;" />
-  </h1>
+<!-- Profile + Name Section -->
+<div style="display: flex; align-items: center; margin-top: -90px; padding-left: 40px;">
+
+  <!-- Profile Image -->
+  <img src="/profile.png"
+       alt="Profile"
+       width="160"
+       height="160"
+       style="border-radius: 50%; border: 6px solid #0d1117; background-color: #0d1117;" />
+
+  <!-- Spacer -->
+  <div style="width: 40px;"></div>
+
+  <!-- Name & Details -->
+  <div>
+    <h1 style="
+      margin: 0;
+      font-size: 2.6rem;
+      font-weight: 700;
+      color: #ffffff;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    ">
+      Madishetti Ashwith Kumar
+      <img src="/logo.png"
+           alt="Logo"
+           width="26"
+           height="26"
+           style="vertical-align: middle; margin-left: 8px;" />
+    </h1>
+
+    <p style="margin-top: 8px; color: #c9d1d9; font-size: 1rem;">
+      ML Apprentice @StanC | Data & Cloud | Voyager
+    </p>
+
+    <p style="margin-top: 4px; color: #8b949e; font-size: 0.9rem;">
+      India
+    </p>
+  </div>
+
 </div>
+
 
 <div align="center">
   <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Scientist;AI+Researcher" alt="Typing SVG" />
+  <a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Building+ML+Models;Designing+Data+Pipelines;Deploying+AI+Agents;Training+Intelligent+Systems;Scaling+Data+Infrastructure" alt="Typing SVG" />
   </a>
 
   <!-- Intro Text -->
