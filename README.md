@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="/banner.png" alt="Banner" width="100%" />
+  <img src="/Ash-Banner.png" alt="Banner" width="100%" />
 </div>
 
 <!-- Name & Info Section -->
