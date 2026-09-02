@@ -1,0 +1,41 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # Runs daily at 18:00 UTC (23:30 IST)
+  workflow_dispatch: # Allows manual trigger anytime
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graphs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Make SVG background transparent
+        run: |
+          sed -i 's/\.fill-bg { fill: [^;]*; }/.fill-bg { fill: none; }/g' profile-3d-contrib/*.svg
+          sed -i 's/\.stroke-bg { stroke: [^;]*; }/.stroke-bg { stroke: none; }/g' profile-3d-contrib/*.svg
+          sed -i 's/<rect x="0" y="0" width="[0-9]*" height="[0-9]*" class="fill-bg"><\/rect>//g' profile-3d-contrib/*.svg
+
+      - name: Commit & Push SVGs
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A profile-3d-contrib/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update 3D contribution graph with transparent background"
+            git push
+          fi
