@@ -25,11 +25,9 @@
   />
 </div>
 
-  <br />
-
   <!-- 3D Voxel AI Lab & Floating Island -->
   <div align="center">
-    <img src="./assets/voxel-floating-island.jpg" alt="3D Voxel AI Lab & Floating Island" width="95%" />
+    <img src="./voxel-island-animated.svg" alt="3D Voxel AI Lab & Floating Island" width="100%" />
   </div>
 
   <br />
