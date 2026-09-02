@@ -27,6 +27,13 @@
 
   <br />
 
+  <!-- 3D Voxel AI Lab & Floating Island -->
+  <div align="center">
+    <img src="./assets/voxel-floating-island.jpg" alt="3D Voxel AI Lab & Floating Island" width="95%" />
+  </div>
+
+  <br />
+
   <!-- 3D Isometric Contribution Graph -->
   <div align="center">
     <picture>
