@@ -29,7 +29,11 @@
 
   <!-- 3D Isometric Contribution Graph -->
   <div align="center">
-    <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Ashwith's 3D Isometric Contribution Graph" width="95%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-gitblock-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock-light.svg" />
+      <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Ashwith's 3D Isometric Contribution Graph" width="95%" />
+    </picture>
   </div>
 
   <br />
