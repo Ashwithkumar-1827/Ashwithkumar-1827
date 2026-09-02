@@ -22,11 +22,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Make SVG background transparent
+      - name: Make SVG transparent and adaptive to dark/light mode
         run: |
-          sed -i 's/\.fill-bg { fill: [^;]*; }/.fill-bg { fill: none; }/g' profile-3d-contrib/*.svg
-          sed -i 's/\.stroke-bg { stroke: [^;]*; }/.stroke-bg { stroke: none; }/g' profile-3d-contrib/*.svg
-          sed -i 's/<rect x="0" y="0" width="[0-9]*" height="[0-9]*" class="fill-bg"><\/rect>//g' profile-3d-contrib/*.svg
+          python3 .github/scripts/adapt-svg.py
 
       - name: Commit & Push SVGs
         run: |
